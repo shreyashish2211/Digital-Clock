@@ -54,6 +54,9 @@ The application displays a large, easy-to-read digital time along with the full 
 ![Digital Clock App Preview](images/preview_1.png)
 
 ![Digital Clock App Preview](images/preview_2.png)
+
+![Digital Clock App Preview](images/preview_3.png)
+
 ---
 
 Thank you for checking out this project!
