@@ -1,6 +1,6 @@
 # Digital Clock
 
-A lightweight Windows desktop digital clock application that displays the **current time and date in real time** with a clean, minimal, always-visible interface, This is made using python.
+A lightweight desktop app that displays the **current time and date in real time** with a clean, minimal, translucent interface. This is made using python, libraries used in this app are tkinter, datetime, time and ctypes
 
 ---
 
@@ -9,7 +9,7 @@ A lightweight Windows desktop digital clock application that displays the **curr
 * 🕒 **Real-time digital clock** (updates every second)
 * 📅 **Full date display** (Day, Date, Month, Year)
 * 🪟 **Always-on-top window** for easy visibility
-* 🎨 **Clean and minimal UI** with large readable text
+* 🎨 **Clean and minimal UI** with large readable text, translucent design
 * ⚡ **Lightweight & fast** standalone executable
 * 🖥️ **No installation required** – just run the `.exe` file, the program may show a security warning the first time you run it. If this happens, click on More info -> Run anyway.
 
@@ -49,7 +49,7 @@ No setup or configuration is required.
 
 ## 📸 Preview
 
-The application displays a large, easy-to-read digital time along with the full date. It can stay on top of other applications (like browsers or media players), making it perfect for presentations, studying, or casual desktop use.
+Here is a quick perview.
 
 ![Digital Clock App Preview](images/preview_1.png)
 
