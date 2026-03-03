@@ -7,7 +7,7 @@ A lightweight desktop app that displays the **current time and date in real time
 ## ✨ Features
 
 * 🕒 **Real-time digital clock** (updates every second)
-* 📅 **Full date display** (Day, Date, Month, Year)
+* 📅 **Full date display** (Day, Date, Month, Year) uses 12 hrs format
 * 🪟 **Always-on-top window** for easy visibility
 * 🎨 **Clean and minimal UI** with large readable text, translucent design
 * ⚡ **Lightweight & fast** standalone executable
