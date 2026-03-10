@@ -58,6 +58,7 @@ Here is a quick perview.
 ![Digital Clock App Preview](images/preview_3.png)
 
 ---
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=digital-clock%2Fdigital-clock&type=date&logscale=&legend=top-left">
