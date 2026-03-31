@@ -1,6 +1,6 @@
 # Digital Clock
 
-A lightweight desktop app that displays the **current time and date in real time** with a clean, minimal interface. Built using Python, this app offers both a **modern glassmorphism design** and a **simple high-readability layout**.
+A lightweight desktop app that displays the **current time and date in real time** with a clean, minimal interface. Built using Python, this app offers both a **modern glassmorphism design** and a **simple high-readability layout**. These app uses the following libraries tkinter, datetime, cytpes, blur window and time.
 
 ---
 
@@ -36,8 +36,7 @@ Both files are portable and can be run directly **only on Windows. As this is a 
 2. Double-click the file to launch the clock
 3. Drag the window anywhere on your screen
 4. Keep it running in the background while you work, study, or watch videos
-5. Addition you can pin it in the desktop, taskbar or at start menu
-6. The program may show a security warning the first time you run it. If this happens, click on More info -> Run anyway.
+5. Addition you can create a shortcut of both the apps and pin it in the desktop, taskbar or at start menu **(optional)**
 
 No setup or configuration is required.
 
@@ -51,6 +50,15 @@ No setup or configuration is required.
 * Secondary monitor clock
 * Minimal desk setup aesthetic
 * For improving your time management
+
+---
+
+## ⚠️ Important Notes
+1. The program may show a security warning the first time you run it. If this happens, __click on More info__ -> __Run anyway__.
+2. The Neo (glassmorphism) version may be harder to read on light backgrounds or when used alongside light-themed apps/websites.
+   For better visibility in such cases, consider using the Chrono version.
+3. Performance may vary depending on your system, as the app is built using Python.
+On lower-end systems, you might notice minor lag or delays.
 
 ---
 
