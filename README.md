@@ -54,11 +54,10 @@ No setup or configuration is required.
 ---
 
 ## ⚠️ Important Notes
-1. The program may show a security warning the first time you run it. If this happens, __click on More info__ -> __Run anyway__.
-2. The Neo (glassmorphism) version may be harder to read on light backgrounds or when used alongside light-themed apps/websites.
+* The program may show a security warning the first time you run it. If this happens, __click on More info__ -> __Run anyway__.
+*  The Neo (glassmorphism) version may be harder to read on light backgrounds or when used alongside light-themed apps/websites.
    For better visibility in such cases, consider using the Chrono version.
-3. Performance may vary depending on your system, as the app is built using Python.
-On lower-end systems, you might notice minor lag or delays.
+* Performance may vary depending on your system, as the app is built using Python. On lower-end systems, you might notice minor lag or delays.
 
 ---
 
