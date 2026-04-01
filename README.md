@@ -58,6 +58,8 @@ No setup or configuration is required.
 *  The Neo (glassmorphism) version may be harder to read on light backgrounds or when used alongside light-themed apps/websites.
    For better visibility in such cases, consider using the Chrono version.
 * Performance may vary depending on your system, as the app is built using Python. On lower-end systems, you might notice minor lag or delays.
+* The Neo (glassmorphism) version **requires** `Transparency effects` **ON** and `Energy Saver` **OFF** in Windows.
+Otherwise, the visual effect may not work correctly — use the Chrono version instead.
 
 ---
 
