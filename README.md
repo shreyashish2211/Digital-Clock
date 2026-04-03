@@ -10,8 +10,8 @@ A lightweight desktop app that displays the **current time and date in real time
 * 📅 **Full date display** (Day, Date, Month, Year) uses 12 hrs format
 * 🪟 **Always-on-top window** for easy visibility
 * 🎨 **Two UI styles:**
-  - **Chrono** – clean, flat, high-contrast design for maximum readability  
-  - **Neo** – modern translucent *glassmorphism* (frosted glass) design 
+  - **Chrono** – clean, flat, high-contrast design for maximum readability, translucent design
+  - **Neo** – modern translucent *glassmorphism* (frosted glass) design
 * ⚡ **Lightweight & fast** standalone executable
 * 🖥️ **No installation required** – just run the `.exe` file
 
@@ -19,8 +19,8 @@ A lightweight desktop app that displays the **current time and date in real time
 
 ## 📂 Files Included
 * `2k or 1080p or lower res screen` folder
-   - `Digital_Clock_Chrono.exe` – Clean, flat design (high readability)
-   - `Digital_Clock_Neo.exe` – Frosted glass / translucent design
+   - `Digital_Clock_Chrono.exe` – Clean, flat design (high readability), translucent design
+   - `Digital_Clock_Neo.exe` – Frosted glass / glassmorphism
 
 * `4k res screen` folder
    - `Digital_Clock_Chrono_alt.exe` – Same (optimized for 4K)
