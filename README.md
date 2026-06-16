@@ -54,14 +54,14 @@ No setup or configuration is required.
 ---
 
 ## ⚠️ Important Notes
-*  The Neo (glassmorphism) version may be harder to read on light backgrounds or when used alongside light-themed apps/websites.
+*  The Neo (glassmorphism) version may be slighty harder to read on light theme backgrounds or when used alongside light-themed apps/websites.
    For better visibility in such cases, consider using the Chrono version.
 * Performance may vary depending on your system, as the app is built using Python. On lower-end systems, you might notice minor lag or delays.
 * The Neo (glassmorphism) version **requires** `Transparency effects` **ON** and `Energy Saver` **OFF** in Windows.
 Otherwise, the visual effect may not work correctly — use the Chrono version instead.
 
 > [!Note]
-> The program may show a security warning the first time you run the app __*on Windows*__. If this happens, click on
+> The program may show a security warning the first time you run the compiled app __*on Windows*__. If this happens, click on
 >* **More info -> Run anyway.**
 
 ---
@@ -95,4 +95,3 @@ Here is a quick perview.
 Thank you for checking out this project!
 
 <!-- [Secret Link](https://drive.google.com/file/d/1ijZsLo3jzb4AOAKrUQX5Vnr5UDH3fgBr/view?usp=sharing) -->
-<!-- [Secret Link](https://drive.google.com/file/d/1qOkYYSu0Tu5mCKAzD9fE4_u0qCrsxgOf/view?usp=sharing) -->
