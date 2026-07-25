@@ -1,6 +1,7 @@
 # Digital Clock
 
-A lightweight desktop app that displays the **current time and date in real time** with a clean, minimal interface. Built using Python, this app offers both a **modern glassmorphism design** and a **simple high-readability layout**. These app uses the following libraries tkinter, datetime, cytpes, blur window and time.
+A lightweight desktop app that displays the **current time and date in real time** with a clean, minimal interface. Built using Python, this app offers both a **modern glassmorphism design** and a **simple high-readability layout**. This app uses the following libraries: 
+tkinter, datetime, cytpes, blur window and time.
 
 ---
 
@@ -19,14 +20,14 @@ A lightweight desktop app that displays the **current time and date in real time
 
 ## 📂 Files Included
 * `2k or 1080p or lower res screen` folder
-   - `Digital_Clock_Chrono.exe` – Clean, flat design (high readability), semi translucent design
+   - `Digital_Clock_Chrono.exe` – Clean, flat design (high readability), semi-translucent design
    - `Digital_Clock_Neo.exe` – Frosted glass / glassmorphism, translucent design
 
 * `4k res screen` folder
-   - `Digital_Clock_Chrono_alt.exe` – Same (optimized for 4K)
-   - `Digital_Clock_Neo_alt.exe` – Same (optimized for 4K)
+   - `Digital_Clock_Chrono_alt.exe` – Same (optimised for 4K)
+   - `Digital_Clock_Neo_alt.exe` – Same (optimised for 4K)
 
-Both files are portable and can be run directly **only on Windows. As this is a Windows build only works for windows 10 and 11**
+Both files are portable and can be run directly **only on Windows. As this is a Windows build only works for Windows 10 and 11.**
 
 ---
 
@@ -36,7 +37,7 @@ Both files are portable and can be run directly **only on Windows. As this is a 
 2. Double-click the file to launch the clock
 3. Drag the window anywhere on your screen
 4. Keep it running in the background while you work, study, or watch videos
-5. Addition you can create a shortcut of both the apps and pin it in the desktop, taskbar or at start menu **(optional)**
+5. Additionally, you can create a shortcut of both apps and pin it on the desktop, taskbar or Start menu **(optional)**
 
 No setup or configuration is required.
 
@@ -53,8 +54,8 @@ No setup or configuration is required.
 
 ---
 
-## ⚠️ Important Notes
-*  The Neo (glassmorphism) version may be slighty harder to read on light theme backgrounds or when used alongside light-themed apps/websites.
+## ⚠️ Important Notesslighty
+*  The Neo (glassmorphism) version may be slightly harder to read on light theme backgrounds or when used alongside light-themed apps/websites.
    For better visibility in such cases, consider using the Chrono version.
 * Performance may vary depending on your system, as the app is built using Python. On lower-end systems, you might notice minor lag or delays.
 * The Neo (glassmorphism) version **requires** `Transparency effects` **ON** and `Energy Saver` **OFF** in Windows.
@@ -68,7 +69,7 @@ Otherwise, the visual effect may not work correctly — use the Chrono version i
 
 ## 📸 Preview
 
-Here is a quick perview.
+Here is a quick preview.
 
 ![Digital Clock App Preview](images/preview_1.png)
 
@@ -81,6 +82,16 @@ Here is a quick perview.
 ![Digital Clock App Preview](images/preview_5.png)
 
 ---
+
+## License
+
+This project is licensed under the LGPL v2.1.
+
+<div align="right">
+<table><td>
+<a href="#start-of-content">👆 Scroll to top</a>
+</td></table>
+</div>
 
 ## Star History
 
