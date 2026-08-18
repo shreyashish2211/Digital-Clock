@@ -54,7 +54,7 @@ No setup or configuration is required.
 
 ---
 
-## ⚠️ Important Notesslighty
+## ⚠️ Important Notes
 *  The Neo (glassmorphism) version may be slightly harder to read on light theme backgrounds or when used alongside light-themed apps/websites.
    For better visibility in such cases, consider using the Chrono version.
 * Performance may vary depending on your system, as the app is built using Python. On lower-end systems, you might notice minor lag or delays.
